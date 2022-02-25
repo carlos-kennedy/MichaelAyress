@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo JavaScript e React
 - 🎓 Estudando Análise e desenvolvimento de sistemas
 - 🏋️‍♂️ Prático atividade física
-- 📫 Meu contanto para [Email](michaelayresdev@qq.com)
+
   ##
   
 <div align="center">
