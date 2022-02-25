@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo JavaScript
 - 🎓 Estudando Análise e desenvolvimento de sistemas
 - 🏋️‍♂️ Prático atividade física
-- 📫 Meu contanto para [Email](michaelayresdev@gmail.com)
+- 📫 Meu contanto para [Email](michaelayresdev@qq.com)
   ##
   
 <div align="center">
@@ -38,7 +38,11 @@
   <a href="https://www.linkedin.com/in/michael-ayres-da-silva-642606219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/michael.ayresdasilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/MichaelAyress/MichaelAyress/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MichaelAyress/MichaelAyress/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
