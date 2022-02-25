@@ -1,10 +1,11 @@
-### Olá! Eu sou o Michael Ayres da Silva 👋
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 
 - 🔭 Pretendo trabalhar com Front End
 - 🌱 Estou aprendendo JavaScript
 - 🎓 Estudando Análise e desenvolvimento de sistemas
 - 🏋️‍♂️ Prático atividade física
-- 📫 Meu contanto para email: michaelayresdev@gmail.com
+- 📫 Meu contanto para [Email](michaelayresdev@gmail.com)
   ##
   
 <div align="center">
