@@ -1,10 +1,10 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
    
 
-- 🔭 Pretendo trabalhar com Front End
-- 🌱 Estou aprendendo JavaScript e React
-- 🎓 Estudando Análise e desenvolvimento de sistemas
-- 🏋️‍♂️ Prático atividade física
+- 🔭 Pretendo trabalhar com **Front End**
+- 🌱 Estou aprendendo **JavaScript** e **React**
+- 🎓 Estudando **Análise e desenvolvimento de sistemas**
+- 🏋️‍♂️ Prático _atividade_ _física_
 
   ##
   
