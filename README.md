@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelAyress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAyress&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Micha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -28,7 +30,7 @@
   <img align="right" alt="Micha-yoda" height="150" width="150" src="https://media.discordapp.net/attachments/946552504970260544/946578879596888104/Screenshot_20220224-2208243-ANIMATION.gif"
 </div>
   
-  ##
+ ##
   
  <div> 
   <a href="https://www.instagram.com/michael__ayres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,10 +40,8 @@
   <a href="https://www.linkedin.com/in/michael-ayres-da-silva-642606219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/michael.ayresdasilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
-    
- 
 </div>
-  
+ 
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
